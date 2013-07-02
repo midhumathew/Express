@@ -76,7 +76,7 @@ public class Utility extends Activity{
 		workbook = null;
 		s = null;
 		
-		int columnCount = '0';
+		int columnCount = 0;
 		int totalSheet = 0;
 		String firstSheet = "TestCases";
 		String secondSheet = "TestScenarios";
